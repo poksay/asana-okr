@@ -1,0 +1,15 @@
+nav {
+  background-color: #00B0F0;
+  color: white;
+  height: 50px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  line-height: 50px;
+  vertical-align: middle;
+}
+
+nav a {
+  margin-left: 10px
+}
